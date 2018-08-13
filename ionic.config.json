@@ -1,0 +1,7 @@
+{
+  "name": "myCookerApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
